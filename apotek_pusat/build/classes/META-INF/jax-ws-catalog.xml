@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/apotek_service/ApotekService?WSDL" uri="wsdl/localhost_8080/apotek_service/ApotekService.wsdl"/>
+    <system systemId="http://localhost:8080/apotek_service/ApotekService?xsd=1" uri="wsdl/localhost_8080/apotek_service/ApotekService.xsd_1.xsd"/>
+    <system systemId="http://10.106.239.8:8080/apotek_service/ApotekService?WSDL" uri="wsdl/10.106.239.8_8080/apotek_service/ApotekService.wsdl"/>
+    <system systemId="http://10.106.239.8:8080/apotek_service/ApotekService?xsd=1" uri="wsdl/10.106.239.8_8080/apotek_service/ApotekService.xsd_1.xsd"/>
+</catalog>
